@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="<a href="https://ibb.co/zHXv7CmR"><img src="https://i.ibb.co/Dg928m1C/github-banner.png" alt="github-banner" border="0"></a>">
+<a href="https://ibb.co/zHXv7CmR"><img src="https://i.ibb.co/Dg928m1C/github-banner.png" alt="github-banner" border="0"></a>
 
 # Amirun Nahar
 ### Web Developer
