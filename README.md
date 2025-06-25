@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello
 
-<img src="https://github.com/Amirun-Nahar/Amirun-Nahar/raw/main/github%20banner.png">
+<img src="<a href="https://ibb.co/zHXv7CmR"><img src="https://i.ibb.co/Dg928m1C/github-banner.png" alt="github-banner" border="0"></a>">
 
 # Amirun Nahar
 ### Web Developer
