@@ -4,8 +4,6 @@
 
 # Amirun Nahar
 ### Web Developer
-
-## About Me
 ## About Me
 Hi there! I'm Amirun Nahar, a passionate Web Developer with a strong interest in crafting engaging and responsive web applications. I love bringing ideas to life using technologies like HTML, CSS, JavaScript, React, and MongoDB, and am always keen on solving complex problems with clean, efficient code.
 
