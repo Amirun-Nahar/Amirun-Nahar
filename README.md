@@ -51,7 +51,7 @@ Hi there! I'm Amirun Nahar, a passionate Web Developer with a strong interest in
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirun-Nahar&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirun-Nahar&theme=dark" alt="Your GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirun-Nahar&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
