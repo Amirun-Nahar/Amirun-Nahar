@@ -3,7 +3,7 @@
 <a href="https://ibb.co/zHXv7CmR"><img src="https://i.ibb.co/Dg928m1C/github-banner.png" alt="github-banner" border="0"></a>
 
 # Amirun Nahar
-### Web Developer| I'm exploring React,JavaScript
+### Web Developer| I'm exploring React, JavaScript
 ## About Me
 Hi there! I'm Amirun Nahar, a passionate Web Developer with a strong interest in crafting engaging and responsive web applications. I love bringing ideas to life using technologies like HTML, CSS, JavaScript, React, and MongoDB, and am always keen on solving complex problems with clean, efficient code.
 
