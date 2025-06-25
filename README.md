@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/Amirun-Nahar/Amirun-Nahar/raw/main/github%20banner.png">
+
 <!--
 **Amirun-Nahar/Amirun-Nahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
